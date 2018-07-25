@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "node": "^10.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"All tests passed\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aaadefolarin@bitbucket.org/aaadefolarin/nem.git"
+  },
+  "author": "Adefolarin AA",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/aaadefolarin/nem#readme"
+}
