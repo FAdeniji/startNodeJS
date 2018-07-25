@@ -10,10 +10,10 @@ var server = http.createServer((request, response) => {
   response.end('Server Working Success');
 });
 
-server.listen(port,host, (error) => {
-  if (error) {
-    return console.log('Error occured : ', error );
-  }
+server.listen(port, host, (error) => {
+  // if (error) {
+    // return console.log('Error occured : ', error );
+  // }
 
-  console.log('server is listening on ' + host + ':'+ port);
+  // console.log('server is listening on ' + host + ':'+ port);
 });
