@@ -7,5 +7,10 @@
     "tool"
   ],
   "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
   "env": {}
 }
