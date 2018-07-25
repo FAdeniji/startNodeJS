@@ -13,9 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://aaadefolarin@bitbucket.org/aaadefolarin/nem.git"
+    "url": "git+https://FAdeniji@github.com/FAdeniji/startNodeJS.git"
   },
-  "author": "Adefolarin AA",
+  "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/aaadefolarin/nem#readme"
+  "bugs": {
+    "url": "https://github.com/FAdeniji/startNodeJS/issues"
+  },
+  "homepage": "https://github.com/FAdeniji/startNodeJS#readme"
 }
