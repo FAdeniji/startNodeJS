@@ -1,20 +1,16 @@
 {
-  "name": "startNodeJS",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-    "web": {
-      "quantity": 1
-    }
-  },
-  "addons": [
-
+  "name": "Start Node J S",
+  "description": "TODO: Add a short description about Start Node J S",
+  "keywords": [
+    "small",
+    "sharp",
+    "tool"
   ],
+  "addons": [],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
     }
-  ]
+  ],
+  "env": {}
 }
